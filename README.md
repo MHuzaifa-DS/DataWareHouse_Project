@@ -31,12 +31,7 @@ This Power BI dashboard analyzes **10 years of diabetic inpatient encounter data
  ┣ 📊 Diabetic_Dashboard.pbix          # Main Power BI file
  ┣ 📄 diabetic_data.csv                # Source dataset (UCI ML Repository)
  ┣ 📑 README.md                        # This file
- ┗ 📁 assets/
-    ┣ 🖼️ page1_executive_overview.png
-    ┣ 🖼️ page2_demographics.png
-    ┣ 🖼️ page3_readmission.png
-    ┣ 🖼️ page4_clinical.png
-    ┗ 🖼️ page5_medication.png
+
 ```
 
 ---
