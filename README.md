@@ -5,7 +5,7 @@
 ![Records](https://img.shields.io/badge/Records-101%2C766-green?style=for-the-badge)
 ![Pages](https://img.shields.io/badge/Dashboard%20Pages-5-orange?style=for-the-badge)
 
-> **Course:** Data Warehousing & Business Intelligence — Feb 2026  
+> **Course:** Data Warehousing & Business Intelligence — April 2026  
 > **Author:** Muhammad Huzaifa | SU92-BSDSM-F22-019
 
 ---
